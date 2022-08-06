@@ -4841,7 +4841,7 @@
       "isDefault": false,
       "abbreviation": "QC2",
       "name": "QWERTY for Cr (2)",
-      "description": "QWERTY is the mother of all layouts. This is the Chromebook version for CrOS.",
+      "description": "QWERTY is the mother of all layouts. This is the Chromebook version for CrOS w/ Ctrl on Caps Lock, LAlt on LFn, swapped LSuper and LCtrl and 2Tab as Mouse.",
       "layers": [
         {
           "modules": [
@@ -7255,7 +7255,7 @@
       "isDefault": false,
       "abbreviation": "QM2",
       "name": "QWERTY for Mac (2)",
-      "description": "QWERTY is the mother of all layouts. This is the Mac version for unmapped OSX.",
+      "description": "QWERTY is the mother of all layouts. This is the Mac version for unmapped OSX w/ Ctrl on Caps Lock, LSuper on LFn and 2Tab as Mouse.",
       "layers": [
         {
           "modules": [
@@ -8460,7 +8460,7 @@
       "isDefault": false,
       "abbreviation": "QM3",
       "name": "QWERTY for Mac (3)",
-      "description": "QWERTY is the mother of all layouts. This is the Mac version for unmapped OSX Emacs.",
+      "description": "QWERTY is the mother of all layouts. This is the Mac version for unmapped OSX Emacs w/ Ctrl on Caps Lock, LSuper on LFn and 2Tab as Mouse.",
       "layers": [
         {
           "modules": [
@@ -10874,7 +10874,7 @@
       "isDefault": true,
       "abbreviation": "QW2",
       "name": "QWERTY for PC (2)",
-      "description": "QWERTY is the mother of all layouts. This is the PC version.",
+      "description": "QWERTY is the mother of all layouts. This is the PC version w/ Ctrl on Caps Lock, LAlt on LFn, swapped LSuper and LCtrl and 2Tab as Mouse",
       "layers": [
         {
           "modules": [
