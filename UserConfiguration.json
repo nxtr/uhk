@@ -1,5 +1,5 @@
 {
-  "userConfigMajorVersion": 4,
+  "userConfigMajorVersion": 5,
   "userConfigMinorVersion": 0,
   "userConfigPatchVersion": 0,
   "deviceName": "My UHK",
@@ -26,6 +26,7 @@
       "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the Mac version.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -428,6 +429,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -765,6 +767,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -999,6 +1002,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -1226,6 +1230,7 @@
       "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the PC version.\n",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -1628,6 +1633,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -1975,6 +1981,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -2208,6 +2215,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -2435,6 +2443,7 @@
       "description": "The Dvorak keyboard layout was designed with the goal of maximizing typing efficiency. This is the Mac version.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -2837,6 +2846,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -3174,6 +3184,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -3408,6 +3419,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -3635,6 +3647,7 @@
       "description": "The Dvorak keyboard layout was designed with the goal of maximizing typing efficiency. This is the PC version.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -4037,6 +4050,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -4384,6 +4398,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -4617,6 +4632,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -4844,6 +4860,7 @@
       "description": "QWERTY is the mother of all layouts. This is the Chromebook version for CrOS w/ Ctrl on Caps Lock, LAlt on LFn, swapped LSuper and LCtrl and 2Tab as Mouse.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -5247,6 +5264,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -5598,6 +5616,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -5831,6 +5850,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -6058,6 +6078,7 @@
       "description": "QWERTY is the mother of all layouts. This is the Mac version.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -6460,6 +6481,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -6797,6 +6819,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -7031,6 +7054,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -7258,6 +7282,7 @@
       "description": "QWERTY is the mother of all layouts. This is the Mac version for unmapped OSX w/ Ctrl on Caps Lock, LSuper on LFn and 2Tab as Mouse.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -7661,6 +7686,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -8002,6 +8028,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -8236,6 +8263,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -8463,6 +8491,7 @@
       "description": "QWERTY is the mother of all layouts. This is the Mac version for unmapped OSX Emacs w/ Ctrl on Caps Lock, LSuper on LFn and 2Tab as Mouse.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -8866,6 +8895,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -9207,6 +9237,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -9441,6 +9472,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -9668,6 +9700,7 @@
       "description": "QWERTY is the mother of all layouts. This is the PC version.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -10070,6 +10103,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -10417,6 +10451,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -10650,6 +10685,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -10877,6 +10913,7 @@
       "description": "QWERTY is the mother of all layouts. This is the PC version w/ Ctrl on Caps Lock, LAlt on LFn, swapped LSuper and LCtrl and 2Tab as Mouse",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -11280,6 +11317,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -11631,6 +11669,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -11864,6 +11903,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
@@ -12091,6 +12131,7 @@
       "description": "This keymap is only used for factory testing purposes.",
       "layers": [
         {
+          "id": "base",
           "modules": [
             {
               "id": 0,
@@ -12493,6 +12534,7 @@
           ]
         },
         {
+          "id": "mod",
           "modules": [
             {
               "id": 0,
@@ -12832,6 +12874,7 @@
           ]
         },
         {
+          "id": "fn",
           "modules": [
             {
               "id": 0,
@@ -13064,6 +13107,7 @@
           ]
         },
         {
+          "id": "mouse",
           "modules": [
             {
               "id": 0,
