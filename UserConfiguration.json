@@ -425,6 +425,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -763,6 +776,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -998,6 +1024,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -1216,6 +1255,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -1629,6 +1681,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -1977,6 +2042,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -2211,6 +2289,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -2429,6 +2520,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -2842,6 +2946,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -3180,6 +3297,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -3415,6 +3545,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -3633,6 +3776,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -4046,6 +4202,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -4394,6 +4563,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -4628,6 +4810,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -4846,6 +5041,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -5260,6 +5468,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -5612,6 +5833,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -5846,6 +6080,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -6064,6 +6311,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -6477,6 +6737,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -6815,6 +7088,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -7050,6 +7336,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -7268,6 +7567,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -7682,6 +7994,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -8024,6 +8349,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -8259,6 +8597,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -8477,6 +8828,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -8891,6 +9255,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -9233,6 +9610,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -9468,6 +9858,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -9686,6 +10089,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -10099,6 +10515,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -10447,6 +10876,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -10681,6 +11123,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -10899,6 +11354,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -11313,6 +11781,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -11665,6 +12146,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -11899,6 +12393,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -12117,6 +12624,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
@@ -12530,6 +13050,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -12870,6 +13403,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -13103,6 +13649,19 @@
                   "mouseAction": "leftClick"
                 }
               ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
             }
           ]
         },
@@ -13320,6 +13879,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "leftClick"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
                 }
               ]
             }
