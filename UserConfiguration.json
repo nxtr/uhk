@@ -5065,7 +5065,7 @@
       "isDefault": false,
       "abbreviation": "QC2",
       "name": "QWERTY for Cr (2)",
-      "description": "QWERTY is the mother of all layouts. This is the Chromebook version for CrOS w/ Ctrl on Caps Lock, LAlt on LFn, swapped LSuper and LCtrl and 2Tab as Mouse.",
+      "description": "QWERTY is the mother of all layouts. This is the Chromebook version for CrOS w/ Ctrl on Caps Lock, LAlt on LFn, and 2Tab as Mouse.",
       "layers": [
         {
           "id": "base",
@@ -11378,7 +11378,7 @@
       "isDefault": true,
       "abbreviation": "QW2",
       "name": "QWERTY for PC (2)",
-      "description": "QWERTY is the mother of all layouts. This is the PC version w/ Ctrl on Caps Lock, LAlt on LFn, swapped LSuper and LCtrl and 2Tab as Mouse",
+      "description": "QWERTY is the mother of all layouts. This is the PC version w/ Ctrl on Caps Lock, LAlt on LFn,  and 2Tab as Mouse",
       "layers": [
         {
           "id": "base",
